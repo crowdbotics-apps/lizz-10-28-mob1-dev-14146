@@ -32,9 +32,9 @@ export default class Blank extends React.Component {
         cat is puking right now.
       </Text>
       <Button
-        title="Press me!"
+        title="Press me! changed from code editor"
         color="#33ffdd"
-        onPress={() => alert("Pressed!")}
+        onPress={() => alert("Gross!")}
       />
     </View>
   )
